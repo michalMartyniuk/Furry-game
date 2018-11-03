@@ -1,0 +1,26 @@
+{
+  "name": "furry_game",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalMartyniuk/POZ_FER_S_12_REACT_Furry_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalMartyniuk/POZ_FER_S_12_REACT_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/michalMartyniuk/POZ_FER_S_12_REACT_Furry_Game#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "browser-sync-webpack-plugin": "^2.2.2",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
